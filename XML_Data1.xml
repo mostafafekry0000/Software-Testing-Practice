@@ -1,0 +1,100 @@
+<Courses>
+
+<Testing_Bootcamp>
+
+<Duration>
+50 Hours
+</Duration>
+
+<Instructor>
+Eng. Mostafa
+</Instructor>
+
+<Cost>
+180 $
+</Cost>
+
+<Content>
+<One> Basic Concept </One>
+<Two> ISTQB </Two>
+<Three> Mobile </Three>
+<Four> Agile </Four>
+</Content>
+
+</Testing_Bootcamp>
+
+<ISTQB>
+
+
+<Duration>
+20 Hours
+</Duration>
+
+<Instructor>
+Eng. Mostafa
+</Instructor>
+
+<Cost>
+70 $
+</Cost>
+
+<Content>
+<One> Basic Concept </One>
+<Two> ISTQB Types </Two>
+<Three> ISTQB Levels </Three>
+<Four> ISTQB Tools </Four>
+</Content>
+
+</ISTQB>
+
+<Agile>
+
+
+<Duration>
+20 Hours
+</Duration>
+
+<Instructor>
+Eng. Mostafa
+</Instructor>
+
+<Cost>
+70 $
+</Cost>
+
+<Content>
+<One> Basic Concept </One>
+<Two> Agile Tools</Two>
+<Three> Agile Techniques </Three>
+<Four> Agile Benefits </Four>
+</Content>
+
+</Agile>
+
+<Mobile>
+
+
+<Duration>
+20 Hours
+</Duration>
+
+<Instructor>
+Eng. Mostafa
+</Instructor>
+
+<Cost>
+70 $
+</Cost>
+
+<Content>
+<One> Basic Concept </One>
+<Two> Mobile Types </Two>
+<Three> Mobile Tools</Three>
+<Four> Mobile Techniques </Four>
+</Content>
+
+</Mobile>
+
+
+</Courses>
+
